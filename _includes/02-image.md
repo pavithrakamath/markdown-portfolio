@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![This is a sleepy cat](https://i0.wp.com/welovecatsandkittens.com/wp-content/uploads/2013/09/fallling-asleep-at-keyboard-cat.jpg)
