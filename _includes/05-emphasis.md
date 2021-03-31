@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am <b>happy</b> as happy can be. 👍
+I am positive that it is <i>great</i> to be
