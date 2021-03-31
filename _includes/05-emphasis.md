@@ -1,2 +1,2 @@
-I am <b>happy</b> as happy can be. 👍
-I am positive that it is <i>great</i> to be
+I am as *happy* as **happy** can be. 👍
+I am __positive__ that it is _great_ to be
